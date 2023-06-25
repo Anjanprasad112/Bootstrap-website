@@ -1,2 +1,2 @@
 # Bootstrap-website
-This is the website made by bootstrap
+The website was created by Bootstarp
